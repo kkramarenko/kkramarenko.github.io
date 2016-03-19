@@ -1,7 +1,7 @@
 ---
-title: About
+title: Teaching
 layout: page
-permalink: /about/index.html
+permalink: /teaching/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
