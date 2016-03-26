@@ -6,7 +6,7 @@ permalink: /teaching/index.html
 
 ## Wellcome to teaching page
 
-    1. [Operations research]({{ site.url }}/teaching/OR/operations_research).
+    1. [Operations research]({{ site.url }}).
     2. Artificial Neural Network.
     3. Machine learning.
 
