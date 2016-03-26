@@ -11,7 +11,8 @@ url: http://kkramarenko.github.io
 
 permalink: /:title/
 
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 
 analytics-google: 'UA-MYANALYTICS'
