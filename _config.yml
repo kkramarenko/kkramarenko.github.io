@@ -9,7 +9,8 @@ picture: 'assets/images/profile.jpg'
 url: http://kkramarenko.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+#permalink: /:title/
+permalink: pretty
 
 markdown: kramdown
 #markdown: redcarpet
