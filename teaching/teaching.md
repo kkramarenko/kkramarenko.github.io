@@ -8,4 +8,4 @@ permalink: /teaching/index.html
 
 [Operations research]([OR])
 
-[OR]: {{ site.url }}/teaching/OR
+[OR]: {{ site.url }}/teaching/or
