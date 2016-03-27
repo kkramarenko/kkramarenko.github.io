@@ -1,7 +1,6 @@
 ---
 title: Teaching
 layout: page
-permalink: /teaching/index.html
 ---
 
 ## Wellcome to teaching page
