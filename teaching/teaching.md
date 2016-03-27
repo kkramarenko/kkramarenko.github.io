@@ -6,5 +6,7 @@ permalink: /teaching/index.html
 
 ## Wellcome to teaching page
 <p>
-<a class="link" href="{{ site.url }}/teaching/OR>Operations research</a>
+<ul>
+    <li><a class="link" href="{{ site.url }}/teaching/OR>Operations research</a></li>
+</ul>
 </p>
