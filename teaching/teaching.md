@@ -5,9 +5,9 @@ permalink: /teaching/index.html
 ---
 
 ## Wellcome to teaching page
-
-    1.  [Operations](http://ngs.ru).
+<p>
+    1.  <a class="link" href="{{ site.url }}/teaching/OR>Operations research</a>
     2.  Artificial Neural Network.
     3.  Machine learning.
-
+</p>
 
