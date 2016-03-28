@@ -6,4 +6,4 @@ permalink: /teaching/index.html
 
 ## Wellcome to teaching page
 
-[Operations research]({{ site.url }}/teaching/or){: .link}
+[Operations research]{: .link}({{ site.url }}/teaching/or)
