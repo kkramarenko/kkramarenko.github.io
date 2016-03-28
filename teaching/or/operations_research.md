@@ -5,7 +5,6 @@ permalink: /teaching/or/index.html
 ---
 ## Operations research
 
-[ngs](http://ngs.ru "mail")  
 [Lecture 1][LECTURE1]
 
 [LECTURE1]: {{ site.url }}/teaching/or/lectures/lec1.pdf
