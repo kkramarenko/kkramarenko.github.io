@@ -4,6 +4,6 @@ layout: page
 permalink: /teaching/index.html
 ---
 
-## Wellcome to teaching page
+## Wellcome!
 
 [Operations research]({{ site.url }}/teaching/or){: style="text-decoration: none"}  
