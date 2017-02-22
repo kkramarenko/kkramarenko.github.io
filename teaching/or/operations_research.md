@@ -5,10 +5,10 @@ permalink: /teaching/or/index.html
 ---
 ## Operations research
 
-[Lecture 1][LECTURE1]
-[Lecture 2][LECTURE2]
-[Lecture 3][LECTURE3]
-[Lecture 4][LECTURE4]
+[Lecture 1][LECTURE1]<br>
+[Lecture 2][LECTURE2]<br>
+[Lecture 3][LECTURE3]<br>
+[Lecture 4][LECTURE4]<br>
 
 [LECTURE1]: {{ site.url }}/teaching/or/lectures/lec1.pdf
 [LECTURE2]: {{ site.url }}/teaching/or/lectures/lec2.pdf
